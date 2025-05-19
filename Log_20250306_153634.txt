@@ -1,0 +1,180 @@
+[3] 15:36:34: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Training\Training.tws'
+[3] 15:36:34: Log level: 4
+[3] 15:36:34: Release: 24.2.0.1807
+[3] 15:36:34: Execution Approval is disabled.
+[3] 15:36:34: No service discovery configured.
+[3] 15:36:34:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.0.1807 (1807)
+[3] 15:36:34:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 15:36:34:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 15:36:34:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.0.1807 (1807)
+[3] 15:36:34:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.0.1807 (1807)
+[3] 15:36:34:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.0.1807 (1807)
+[3] 15:36:34:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.0.1807 (1807)
+[3] 15:36:34:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.0.1807 (1807)
+    + : SAPSolutionManagerIntegration 24.2.0.1807 (1807)
+[3] 15:36:34:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.0.1807 (1807)
+[3] 15:36:34:  + RemoteControl: RemoteControlAddIn 24.2.0.1807 (1807)
+[3] 15:36:34:  + Reporting: ReportingAddIn 24.2.0.1807 (1807)
+[3] 15:36:34:  + ReportingUI: ReportingUIAddIn 24.2.0.1807 (1807)
+[3] 15:36:34:  + RequirementsManagementAddIn: RequirementsManagement 24.2.0.1807 (1807)
+[3] 15:36:34:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.0.1807 (1807)
+[3] 15:36:34:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.0.1807 (1807)
+[3] 15:36:34:  + TestCaseDesign: TestCaseDesign 24.2.0.1807 (1807)
+[3] 15:36:34: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Training\Training.tws'
+[4] 15:36:41:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh navigation view 'Training''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 15:36:41:  ShowStatusInfo: 'Ready'
+[4] 15:36:41:  ShowStatusInfo: 'Refresh navigation view 'DemoWebShop''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 15:36:41:  ShowStatusInfo: 'Ready'
+[4] 15:36:41:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh detail view 'Training''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 15:36:41:  ShowStatusInfo: 'Ready'
+[4] 15:36:41:  ShowStatusInfo: 'Refresh detail view 'DemoWebShop''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 15:36:41:  ShowStatusInfo: 'Ready'
+[4] 15:36:41:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:36:41:  ShowStatusInfo: 'Refresh all finished'
+[3] 15:36:41: OpenWorkspace took 00:00:09.3394814 to finish
+[2] 15:36:41: Common repository is not available
+[4] 15:36:46:  ShowStatusInfo: 'Ready'
+[4] 15:37:06:  ShowStatusInfo: '1 object selected'
+[4] 15:37:11:  ShowStatusInfo: 'Ready'
+[4] 15:38:10:  ShowStatusInfo: '1 object selected'
+[4] 15:38:12:  ShowStatusInfo: 'Ready'
+[4] 15:38:12:  ShowStatusInfo: '1 object selected'
+[4] 15:38:15:  ShowStatusInfo: 'Ready'
+[4] 15:38:17:  ShowStatusInfo: '1 object selected'
+[4] 15:38:17:  ShowStatusInfo: 'Ready'
+[4] 15:38:18:  ShowStatusInfo: '1 object selected'
+[4] 15:38:19:  ShowStatusInfo: 'Ready'
+[4] 15:38:22:  ShowStatusInfo: '1 object selected'
+[4] 15:38:23:  ShowStatusInfo: 'Ready'
+[4] 15:38:27:  ShowStatusInfo: '1 object selected'
+[4] 15:38:27:  ShowStatusInfo: 'Ready'
+[4] 15:39:47:  ShowStatusInfo: '1 object selected'
+[4] 15:39:47:  ShowStatusInfo: 'Ready'
+[4] 15:41:10:  ShowStatusInfo: '1 object selected'
+[4] 15:41:10:  ShowStatusInfo: 'Ready'
+[4] 15:41:17:  ShowStatusInfo: '1 object selected'
+[4] 15:41:22:  ShowStatusInfo: 'Ready'
+[4] 15:42:08:  ShowStatusInfo: '1 object selected'
+[4] 15:42:14:  ShowStatusInfo: 'Ready'
+[4] 15:42:23:  ShowStatusInfo: '1 object selected'
+[4] 15:42:23:  ShowStatusInfo: 'Ready'
+[4] 15:42:25:  ShowStatusInfo: 'The key combination (Ctrl+T) is not a command on the selected object(s)'
+[4] 15:42:26:  ShowStatusInfo: '1 object selected'
+[4] 15:42:26:  ShowStatusInfo: 'Ready'
+[4] 15:42:30:  ShowStatusInfo: '7 objects selected'
+[4] 15:42:32:  ShowStatusInfo: 'Ready'
+[4] 15:42:42:  ShowStatusInfo: '1 object selected'
+[4] 15:42:42:  ShowStatusInfo: 'Ready'
+[3] 15:42:45: Task 'Delete' started on '/TestCases/Treinamento iLAB/TemplateInstance of Ordem de venda'
+[4] 15:42:45:  ShowStatusInfo: 'Delete'
+[4] 15:42:45:  ShowStatusInfo: 'Ready'
+[4] 15:42:45:  ShowStatusInfo: 'Delete TemplateInstance of Ordem de venda finalizing ...'
+[4] 15:42:45:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh navigation view 'Training''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 15:42:45:  ShowStatusInfo: 'Ready'
+[4] 15:42:45:  ShowStatusInfo: 'Refresh navigation view 'DemoWebShop''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 15:42:45:  ShowStatusInfo: 'Ready'
+[4] 15:42:45:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh detail view 'Training''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 15:42:45:  ShowStatusInfo: 'Ready'
+[4] 15:42:45:  ShowStatusInfo: 'Refresh detail view 'DemoWebShop''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 15:42:45:  ShowStatusInfo: 'Ready'
+[4] 15:42:45:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:42:45:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:42:45:  ShowStatusInfo: 'Delete TemplateInstance of Ordem de venda finished'
+[3] 15:42:45: Task 'Delete' TemplateInstance of Ordem de venda finished
+[4] 15:42:45:  ShowStatusInfo: 'Ready'
+[4] 15:42:47:  ShowStatusInfo: '1 object selected'
+[4] 15:42:47:  ShowStatusInfo: 'Ready'
+[3] 15:42:50: Task 'Create TemplateInstance' started on '/TestCases/Treinamento iLAB/Ordem de venda'
+[4] 15:42:50:  ShowStatusInfo: 'Create TemplateInstance'
+[4] 15:42:51:  ShowStatusInfo: 'Starting up DataSource-Wizard: This may take some seconds!'
+[4] 15:42:51:  ShowStatusInfo: 'Loading Datasource'
+[4] 15:42:51:  ShowStatusInfo: 'Loading Datasource finished'
+[4] 15:43:05:  ShowStatusInfo: 'Loading Datasource'
+[4] 15:43:05:  ShowStatusInfo: 'Loading Datasource finished'
+[4] 15:43:05:  ShowStatusInfo: 'Loading Datasource'
+[4] 15:43:05:  ShowStatusInfo: 'Loading Datasource finished'
+[4] 15:43:06:  ShowStatusInfo: 'Ready'
+[4] 15:43:06:  ShowStatusInfo: 'TemplateInstance finalizing ...'
+[4] 15:43:06:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh navigation view 'Training''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 15:43:06:  ShowStatusInfo: 'Ready'
+[4] 15:43:06:  ShowStatusInfo: 'Refresh navigation view 'DemoWebShop''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 15:43:06:  ShowStatusInfo: 'Ready'
+[4] 15:43:06:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh detail view 'Training''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 15:43:06:  ShowStatusInfo: 'Ready'
+[4] 15:43:06:  ShowStatusInfo: 'Refresh detail view 'DemoWebShop''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 15:43:06:  ShowStatusInfo: 'Ready'
+[4] 15:43:06:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:43:06:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:43:06:  ShowStatusInfo: 'TemplateInstance finished'
+[3] 15:43:06: Task 'Create TemplateInstance' finished
+[4] 15:43:06:  ShowStatusInfo: 'Ready'
+[4] 15:43:08:  ShowStatusInfo: '1 object selected'
+[4] 15:43:08:  ShowStatusInfo: 'Ready'
+[4] 15:44:07:  ShowStatusInfo: 'Saving ...'
+[3] 15:44:07:  Save started!
+[3] 15:44:07: QTestIntegrationAddIn beginning to Export to QTest
+[3] 15:44:07: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 15:44:07: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 15:44:07: LinkTcToQTestService grouping testcases by same endpoint
+[3] 15:44:07: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 15:44:07: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 15:44:07:  Save finished!
+[4] 15:44:07:  ShowStatusInfo: 'Saved successfully'
+[4] 15:44:08:  ShowStatusInfo: 'Ready'
+[3] 15:44:20: Closing Workspace!
+[3] 15:44:20: Log closed!

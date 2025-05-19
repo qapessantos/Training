@@ -1,0 +1,84 @@
+[3] 10:40:26: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Training\Training.tws'
+[3] 10:40:26: Log level: 4
+[3] 10:40:26: Release: 24.2.0.1807
+[3] 10:40:26: Execution Approval is disabled.
+[3] 10:40:26: No service discovery configured.
+[3] 10:40:26:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.0.1807 (1807)
+[3] 10:40:26:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 10:40:26:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 10:40:26:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.0.1807 (1807)
+[3] 10:40:26:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.0.1807 (1807)
+[3] 10:40:26:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.0.1807 (1807)
+[3] 10:40:26:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.0.1807 (1807)
+[3] 10:40:26:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.0.1807 (1807)
+    + : SAPSolutionManagerIntegration 24.2.0.1807 (1807)
+[3] 10:40:26:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.0.1807 (1807)
+[3] 10:40:26:  + RemoteControl: RemoteControlAddIn 24.2.0.1807 (1807)
+[3] 10:40:26:  + Reporting: ReportingAddIn 24.2.0.1807 (1807)
+[3] 10:40:26:  + ReportingUI: ReportingUIAddIn 24.2.0.1807 (1807)
+[3] 10:40:26:  + RequirementsManagementAddIn: RequirementsManagement 24.2.0.1807 (1807)
+[3] 10:40:26:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.0.1807 (1807)
+[3] 10:40:26:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.0.1807 (1807)
+[3] 10:40:26:  + TestCaseDesign: TestCaseDesign 24.2.0.1807 (1807)
+[3] 10:40:26: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Training\Training.tws'
+[4] 10:40:29:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh navigation view 'Training''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh navigation view 'DemoWebShop''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 10:40:29:  ShowStatusInfo: 'Ready'
+[4] 10:40:29:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 10:40:29:  ShowStatusInfo: 'Ready'
+[4] 10:40:29:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh detail view 'Training''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh detail view 'DemoWebShop''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 10:40:29:  ShowStatusInfo: 'Ready'
+[4] 10:40:29:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 10:40:29:  ShowStatusInfo: 'Ready'
+[4] 10:40:29:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:40:29:  ShowStatusInfo: 'Refresh all finished'
+[3] 10:40:29: OpenWorkspace took 00:00:04.5238627 to finish
+[2] 10:40:29: Common repository is not available
+[4] 10:40:32:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:40:32:  ShowStatusInfo: 'Ready'
+[4] 10:40:32:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:40:32:  ShowStatusInfo: 'Ready'
+[4] 10:40:32:  ShowStatusInfo: 'Refresh view finished'
+[4] 10:40:34:  ShowStatusInfo: 'Ready'
+[4] 10:40:34:  ShowStatusInfo: '1 object selected'
+[4] 10:40:36:  ShowStatusInfo: 'Ready'
+[4] 10:40:36:  ShowStatusInfo: '1 object selected'
+[4] 10:40:40:  ShowStatusInfo: 'Ready'
+[4] 10:40:40:  ShowStatusInfo: '1 object selected'
+[4] 10:40:45:  ShowStatusInfo: 'Ready'
+[4] 10:40:49:  ShowStatusInfo: '1 object selected'
+[4] 10:40:49:  ShowStatusInfo: 'Ready'
+[4] 10:40:53:  ShowStatusInfo: '1 object selected'
+[4] 10:40:59:  ShowStatusInfo: 'Ready'
+[4] 10:40:59:  ShowStatusInfo: '1 object selected'
+[4] 10:41:01:  ShowStatusInfo: 'Ready'
+[4] 10:41:01:  ShowStatusInfo: '1 object selected'
+[4] 10:41:06:  ShowStatusInfo: 'Ready'
+[4] 10:41:07:  ShowStatusInfo: '1 object selected'
+[4] 10:41:09:  ShowStatusInfo: 'Ready'
+[4] 10:41:09:  ShowStatusInfo: '1 object selected'
+[4] 10:41:10:  ShowStatusInfo: 'Ready'
+[4] 10:41:11:  ShowStatusInfo: '1 object selected'
+[4] 10:41:11:  ShowStatusInfo: 'Ready'
+[4] 10:41:12:  ShowStatusInfo: '1 object selected'
+[4] 10:41:17:  ShowStatusInfo: 'Ready'
+[3] 10:41:18: Closing Workspace!
+[3] 10:41:18: Log closed!
